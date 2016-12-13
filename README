@@ -1,0 +1,3 @@
+*The .dot and the saved input arquives are inside the "bin/" folder.
+
+*To generate the image from the ".dot", use the command dot -Tps .dot_File_name -o output_name.

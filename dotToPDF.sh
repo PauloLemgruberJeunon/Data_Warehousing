@@ -1,0 +1,1 @@
+dot -Tps bin/Graph.dot -o graph.pdf
